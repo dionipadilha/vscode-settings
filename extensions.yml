@@ -4,6 +4,7 @@ extensions:
   - Dracula Theme Official
   - GitHub Copilot
   - GitHub Copilot Chat
+  - GitLens
   - IntelliCode
   - Live Server
   - Prettier
